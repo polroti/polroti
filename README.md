@@ -13,7 +13,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
 🚴‍♀️ Love for cycling <br>
 💖 and a proud Sri Lankan! 
-<img align="center" alt="LK" width="50px" src="https://thumbs.gfycat.com/AnotherShadyDormouse-size_restricted.gif"/>  
+<img align="center" alt="LK" width="75px" src="https://thumbs.gfycat.com/AnotherShadyDormouse-size_restricted.gif"/>  
 
 🌏 See more about myself at [my website](https://manoj-kumar.me)!
 <br>
