@@ -65,7 +65,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 ### 📦 **Repos...**
 😎 My profile 👉 [Manoj Kumar](https://github.com/manoj997) contains the work that I've done.
 
-🏢 My Organization profile 👉 [Eventors](https://github.com/eventors-inc) (soon will be changed as manobran) contains the work that I've done with a team of contributors. (College Projects etc.)
+🏢 My Organization profile 👉 [Manbran](https://github.com/manobran) contains the work that I've done with a team of contributors. (College Projects, Freelance projects etc.)
 
 <br>
 
