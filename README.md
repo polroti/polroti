@@ -82,7 +82,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true" alt="Manoj Kumar" />
+<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true" alt="Manoj Kumar" />
 
 <br>
 
