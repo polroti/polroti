@@ -82,11 +82,11 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true" alt="Manoj Kumar" />
+<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **manoj997/manoj997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
