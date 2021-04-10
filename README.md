@@ -4,27 +4,29 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manoj997.manoj997)
 
-### 📜 About me...
+### 📜 **About me...**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk) <br>
-👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)<br>
-👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
-🚴‍♀️ Love for cycling <br>
-💖 and a proud Sri Lankan! 
-<img align="center" alt="LK" width="75px" src="https://thumbs.gfycat.com/AnotherShadyDormouse-size_restricted.gif"/>  
+- 🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk) <br>
+- 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)<br>
+- 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
+- 🚴‍♀️ Love for cycling <br>
+- 💖 and a proud Sri Lankan!
+  <img align="center" alt="LK" width="75px" src="https://thumbs.gfycat.com/AnotherShadyDormouse-size_restricted.gif"/>
 
 🌏 See more about myself at [my website](https://manoj-kumar.me)!
 <br>
 
-### **Reach Me via...** 
+### **Reach Me via...**
+
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/manoj997)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manojKumar.dharmaraj)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manoj_dharmaraj)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumardharmaraja/)
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9983802/)
 
+<br>
 
 ### **💪 My Skills...**
 
@@ -50,36 +52,41 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ### 📰 **My Blogs...**
 
-[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manoj997) 
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manoj997)
 
 [![](https://img.shields.io/badge/Kumars_blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kumars-blogs.blogspot.com/)
 
 [![](https://img.shields.io/badge/Tech_Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://manoj-techblogs.blogspot.com/)
 
-
 👣 Travel Blogs & Vlogs (Coming soon!)
 
+<br>
 
 ### 📖 **I'm Learning...**
 
+- React Native
+- ASP.NET MVC
+- Vuejs
+
+<br>
+
 ### 📦 **Repos...**
+
 😎 My profile 👉 [Manoj Kumar](https://github.com/manoj997) contains the work that I've done.
 
 🏢 My Organization profile 👉 [Manbran](https://github.com/manobran) contains the work that I've done with a team of contributors. (College Projects, Freelance projects etc.)
 
 <br>
 
-### 📊 **Stats...**  
+### 📊 **Stats...**
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true" alt="Manoj Kumar" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true" alt="Manoj Kumar" />
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <!--
 **manoj997/manoj997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
