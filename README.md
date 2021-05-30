@@ -1,10 +1,12 @@
 <img alt="Intro Card" src="assets/download.png" />
 
-### Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiting my profile. Take a moment to look at the good work I've done.
+Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiting my profile. Take a moment to look at the good work I've done.
 
 ### Visitors since this README created :
 
 ![Visitor Count](https://profile-counter.glitch.me/manoj997/count.svg)
+
+<br>
 
 # 📜 **About me...**
 
@@ -55,10 +57,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white&style=for-the-badge)
 
-#### Frameworks
+#### Frameworks & Technologies
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node&style=for-the-badge)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=npm&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge)
 
 #### Cloud
