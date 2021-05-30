@@ -4,6 +4,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manoj997.manoj997)
 
+### Visitors since this README created :
+
+![Visitor Count](https://profile-counter.glitch.me/manoj997/count.svg)
+
 # 📜 **About me...**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -16,15 +20,13 @@
 
 #### 🚴‍♀️ Love for cycling
 
-#### 💖 and a proud Sri Lankan!
-
-<img align="center" alt="LK" width="100px" src="https://thumbs.gfycat.com/AnotherShadyDormouse-size_restricted.gif"/>
+#### 💖 and a proud Sri Lankan! 🇱🇰
 
 #### 🌏 See more about myself at [my website](https://manoj-kumar.me)!
 
 <br>
 
-# **Reach Me via...**
+# ✉️ **Reach Me via...**
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/manoj997)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manojKumar.dharmaraj)
@@ -34,7 +36,7 @@
 
 <br>
 
-# **Tech Stack**
+# 🧑🏻‍💻 **Tech Stack**
 
 #### Programming
 
@@ -76,9 +78,7 @@
 # 📰 **My Blogs**
 
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manoj997)
-
 [![](https://img.shields.io/badge/Kumars_blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kumars-blogs.blogspot.com/)
-
 [![](https://img.shields.io/badge/Tech_Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://manoj-techblogs.blogspot.com/)
 
 ### 👣 Travel Blogs & Vlogs (Coming soon!)
@@ -88,9 +88,7 @@
 # 📖 **Currently I'm Learning...**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
-
 ![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
-
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red&style=for-the-badge)
 
 <br>
@@ -107,8 +105,14 @@
 
 # 📊 **Stats...**
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" /> ![My Programing Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manoj997&layout=compact&langs_count=8&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
 
-## GitHub Trophies :stuck_out_tongue_winking_eye:
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Trophies 😜
 
 [![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=manoj997&row=1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Streak 🔥
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj997&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
