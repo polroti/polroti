@@ -1,8 +1,6 @@
-# Hello 👋, வணக்கம் 🙏, ආයුබෝවන් 🙏
+<img alt="Intro Card" src="assets/download.png" />
 
-## Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiting my profile. Take a moment to look at the good work I've done.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=manoj997.manoj997)
+### Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiting my profile. Take a moment to look at the good work I've done.
 
 ### Visitors since this README created :
 
