@@ -36,7 +36,7 @@
 
 # **Tech Stack**
 
-## Programming
+#### Programming
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge&logoColor=brightgreen)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508&style=for-the-badge)
@@ -44,28 +44,28 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=2196F3&style=for-the-badge)
 
-## Database
+#### Database
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json&logoColor=yellow&style=for-the-badge)
 
-## Frameworks
+#### Frameworks
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge)
 
-## Cloud
+#### Cloud
 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?logo=google-cloud&style=for-the-badge)
 
-## Issue Tracking
+#### Issue Tracking
 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC&style=for-the-badge)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-000?&logo=jetbrains&style=for-the-badge)
 
-## CI / CD
+#### CI / CD
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white&style=for-the-badge)
@@ -86,11 +86,11 @@
 
 # 📖 **Currently I'm Learning...**
 
-## - Flutter
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
 
-## - .Net MVC
+![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
 
-## - Angular
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red&style=for-the-badge)
 
 <br>
 
@@ -110,4 +110,4 @@
 
 ## GitHub Trophies :stuck_out_tongue_winking_eye:
 
-[![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=manoj997&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=manoj997&row=1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
