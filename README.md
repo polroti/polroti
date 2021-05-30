@@ -8,17 +8,17 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## 🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk) <br>
+### 🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk) <br>
 
-## 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)<br>
+### 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)<br>
 
-## 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
+### 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/) <br>
 
-## 🚴‍♀️ Love for cycling <br>
+### 🚴‍♀️ Love for cycling <br>
 
-## 💖 and a proud Sri Lankan! <img align="center" alt="LK" width="100px" src="https://thumbs.gfycat.com/AnotherShadyDormouse-size_restricted.gif"/>
+### 💖 and a proud Sri Lankan! <img align="center" alt="LK" width="100px" src="https://thumbs.gfycat.com/AnotherShadyDormouse-size_restricted.gif"/>
 
-## 🌏 See more about myself at [my website](https://manoj-kumar.me)!
+### 🌏 See more about myself at [my website](https://manoj-kumar.me)!
 
 <br>
 
