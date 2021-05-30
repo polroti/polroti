@@ -36,6 +36,10 @@
 
 <br>
 
+### Here's a joke for you!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 # 🧑🏻‍💻 **Tech Stack**
 
 #### Programming
@@ -87,7 +91,6 @@
 
 # 📖 **Currently I'm Learning...**
 
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
 ![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red&style=for-the-badge)
 
