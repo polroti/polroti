@@ -43,12 +43,13 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=orange&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=2196F3&style=for-the-badge)
+![JSON](https://img.shields.io/badge/-JSON-000?&logo=json&logoColor=yellow&style=for-the-badge)
 
 #### Database
 
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white&style=for-the-badge)
-![JSON](https://img.shields.io/badge/-JSON-000?&logo=json&logoColor=yellow&style=for-the-badge)
 
 #### Frameworks
 
@@ -65,7 +66,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC&style=for-the-badge)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-000?&logo=jetbrains&style=for-the-badge)
 
-#### CI / CD
+#### VCS & CI / CD
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white&style=for-the-badge)
