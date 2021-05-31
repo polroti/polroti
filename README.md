@@ -44,7 +44,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 #### Programming
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge&logoColor=brightgreen)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=orange&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC&style=for-the-badge)
@@ -63,7 +63,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node-dot-js&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&style=for-the-badge)
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic&style=for-the-badge)
