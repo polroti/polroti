@@ -50,19 +50,23 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=2196F3&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json&logoColor=yellow&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp&logoColor=yellow&style=for-the-badge)
 
 #### Database
 
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=white&style=for-the-badge)
+![PLSQL](https://img.shields.io/badge/-PLSQL-000?&logo=oracle&logoColor=white&style=for-the-badge)
 
 #### Frameworks & Technologies
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=npm&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&style=for-the-badge)
+![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic&style=for-the-badge)
 
 #### Cloud
 
@@ -119,4 +123,4 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ## Streak 🔥
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj997&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Manoj's github streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj997&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
