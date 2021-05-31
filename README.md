@@ -116,12 +116,12 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Manoj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green)
 
 ## GitHub Trophies 😜
 
-[![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=manoj997&row=1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=manoj997&row=1&theme=dark)
 
 ## Streak 🔥
 
-[![Manoj's github streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj997&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<img src ="https://github-readme-streak-stats.herokuapp.com/?user=manoj997&theme=blue-green"/>
