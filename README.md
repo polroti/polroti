@@ -62,6 +62,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 #### Frameworks & Technologies
 
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=2196F3&style=for-the-badge)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node-dot-js&style=for-the-badge)
@@ -85,7 +86,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <br>
 
-# 📰 **My Blogs**
+# 📰 **My Blogs** (in Progress...)
 
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manoj997)
 [![](https://img.shields.io/badge/Kumars_blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kumars-blogs.blogspot.com/)
@@ -98,7 +99,6 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 # 📖 **Currently I'm Learning...**
 
 ![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red&style=for-the-badge)
 
 <br>
 
