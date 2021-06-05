@@ -12,19 +12,19 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-#### 🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk)
+###### 🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk)
 
-#### 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)
+###### 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)
 
-#### 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/)
+###### 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/)
 
-#### 🚴‍♀️ Love for cycling
+###### 🚴‍♀️ Love for cycling
 
-#### 💖 and a proud Sri Lankan! 🇱🇰
+###### 💖 and a proud Sri Lankan! 🇱🇰
 
-#### 🌏 See more about myself at [my website](https://manoj-kumar.me)!
+###### 🌏 See more about myself at [my website](https://manoj-kumar.me)!
 
-#### 🚗 Oh! and I'm an Audi fanboy
+###### 🚗 Oh! and I'm an Audi fanboy
 
 <img src="assets/Audi_Logo.png" alt="Manoj Kumar" width="100px"/>
 
