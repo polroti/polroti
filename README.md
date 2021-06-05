@@ -92,6 +92,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white&style=for-the-badge)
 ![PostMan](https://img.shields.io/badge/Postman-000?&logo=postman&logoColor=white&style=for-the-badge&&logoColor=#FF6C37)
+![VSCode](https://img.shields.io/badge/VSCODE-000?&logo=visual-studio-code&style=for-the-badge&&logoColor=007ACC)
 
 ### 📖 **Currently I'm Learning...**
 
