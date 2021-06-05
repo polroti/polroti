@@ -12,25 +12,25 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-###### 🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk)
+🏫 I'm an Alumni of [Bambalapitiya Hindu College](https://www.hcc.lk)
 
-###### 👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)
+👨‍🎓 Graduate at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) (SLIIT)
 
-###### 👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/)
+👩‍💻 Software Engineer at [IFS](https://www.ifs.com/lk/)
 
-###### 🚴‍♀️ Love for cycling
+🚴‍♀️ Love for cycling
 
-###### 💖 and a proud Sri Lankan! 🇱🇰
+💖 and a proud Sri Lankan! 🇱🇰
 
-###### 🌏 See more about myself at [my website](https://manoj-kumar.me)!
+🌏 See more about myself at [my website](https://manoj-kumar.me)!
 
-###### 🚗 Oh! and I'm an Audi fanboy
+🚗 Oh! and I'm an Audi fanboy
 
 <img src="assets/Audi_Logo.png" alt="Manoj Kumar" width="100px"/>
 
 <br>
 
-# ✉️ **Reach Me via...**
+## ✉️ **Reach Me via...**
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/manoj997)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manojKumar.dharmaraj)
@@ -45,7 +45,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-# 🧑🏻‍💻 **Tech Stack**
+## 🧑🏻‍💻 **Tech Stack**
 
 #### Programming
 
@@ -93,9 +93,11 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white&style=for-the-badge)
 ![PostMan](https://img.shields.io/badge/Postman-000?&logo=postman&logoColor=white&style=for-the-badge&&logoColor=#FF6C37)
 
-<br>
+### 📖 **Currently I'm Learning...**
 
-# 📰 **My Blogs** (in Progress...)
+![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
+
+## 📰 **My Blogs** (in Progress...)
 
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manoj997)
 [![](https://img.shields.io/badge/Kumars_blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kumars-blogs.blogspot.com/)
@@ -103,13 +105,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ### 👣 Travel Blogs & Vlogs (Coming soon!)
 
-<br>
-
-## 📖 **Currently I'm Learning...**
-
-![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
-
-# 📦 **Repositories**
+## 📦 **Repositories**
 
 ### 😎 My profile 👉 [Manoj Kumar](https://github.com/manoj997) contains the work that I've done.
 
@@ -119,16 +115,16 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <br>
 
-# 📊 **Stats...**
+## 📊 **Stats...**
 
 <img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
 
 <!-- ![Manoj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green) -->
 
-## GitHub Trophies 😜
+### GitHub Trophies 😜
 
 ![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=manoj997&row=1&theme=dark)
 
-## Streak 🔥
+### Streak 🔥
 
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=manoj997&theme=blue-green"/>
