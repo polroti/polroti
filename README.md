@@ -123,7 +123,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
 
-![Manoj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green)
+<!-- ![Manoj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green) -->
 
 ## GitHub Trophies 😜
 
