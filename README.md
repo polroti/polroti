@@ -105,7 +105,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <br>
 
-# 📖 **Currently I'm Learning...**
+## 📖 **Currently I'm Learning...**
 
 ![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
 
@@ -113,11 +113,11 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 # 📦 **Repositories**
 
-## 😎 My profile 👉 [Manoj Kumar](https://github.com/manoj997) contains the work that I've done.
+### 😎 My profile 👉 [Manoj Kumar](https://github.com/manoj997) contains the work that I've done.
 
-## 🏢 My Organization profile 👉 [Manbran](https://github.com/manobran) contains the work that I've done with a team of contributors. (College Projects)
+### 🏢 My Organization profile 👉 [Manbran](https://github.com/manobran) contains the work that I've done with a team of contributors. (College Projects)
 
-## 📖 The repository for the stuff I learn like tutorials etc. is 👉 [My Learning](https://github.com/manoj-learning)
+### 📖 The repository for the stuff I learn like tutorials etc. is 👉 [My Learning](https://github.com/manoj-learning)
 
 <br>
 
