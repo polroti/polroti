@@ -24,6 +24,12 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 #### 🌏 See more about myself at [my website](https://manoj-kumar.me)!
 
+#### 🚗 Oh! and I'm an Audi fanboy
+
+<img src="assets/Audi_Logo.png" alt="Manoj Kumar" width="100px"/>
+
+<br>
+
 <br>
 
 # ✉️ **Reach Me via...**
@@ -52,6 +58,10 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=2196F3&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json&logoColor=yellow&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp&logoColor=yellow&style=for-the-badge)
+
+#### ML & AI
+
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow&style=for-the-badge)
 
 #### Database
 
