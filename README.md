@@ -109,8 +109,6 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ![.Net](https://img.shields.io/badge/-.Net-000?&logo=dot-net&logoColor=2196F3&style=for-the-badge)
 
-<br>
-
 # 📦 **Repositories**
 
 ### 😎 My profile 👉 [Manoj Kumar](https://github.com/manoj997) contains the work that I've done.
