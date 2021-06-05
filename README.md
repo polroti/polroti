@@ -39,6 +39,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9983802/)
 [![](https://img.shields.io/badge/Google_Maps_Contributions-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/contrib/103788929604394684879/)
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Discord&logoColor=white)](https://www.twitch.tv/polroti)
+[![](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmakumar338@gmail.com)
 <br>
 
 ### Here's a joke for you!
