@@ -30,8 +30,6 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 <br>
 
-<br>
-
 # ✉️ **Reach Me via...**
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/manoj997)
