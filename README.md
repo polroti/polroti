@@ -82,15 +82,16 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?logo=google-cloud&style=for-the-badge)
 
-#### Issue Tracking
+#### Issue Tracking, VCS & CI / CD
 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC&style=for-the-badge)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-000?&logo=jetbrains&style=for-the-badge)
-
-#### VCS & CI / CD
-
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&style=for-the-badge)
+
+#### Tools and OS
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?&logo=ubuntu&logoColor=white&style=for-the-badge)
+![PostMan](https://img.shields.io/badge/Postman-000?&logo=postman&logoColor=white&style=for-the-badge&&logoColor=#FF6C37)
 
 <br>
 
