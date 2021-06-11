@@ -119,7 +119,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
  🏢 My Organization profile 👉 [Manbran](https://github.com/manobran) contains the work that I've done with a team of contributors. (College Projects)
 
-### 📖 The repository for the stuff I learn like tutorials etc. is 👉 [My Learning](https://github.com/manoj-learning)
+### 📖 The organization for the stuff I learn like tutorials etc. is 👉 [My Learning](https://github.com/manoj-learning)
 
 <br>
 
