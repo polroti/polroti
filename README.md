@@ -4,7 +4,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ### Visitors since this README created :
 
-![Visitor Count](https://profile-counter.glitch.me/manoj997/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/polroti/count.svg)
 
 <br>
 
@@ -37,10 +37,10 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 <br>
 
 ## ✉️ **Reach Me via...**
-
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/manoj997)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manojKumar.dharmaraj)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manoj_dharmaraj)
+ 
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/polroti)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/polroti)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/polrottii)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumardharmaraja/)
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9983802/)
 [![](https://img.shields.io/badge/Google_Maps_Contributions-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/contrib/103788929604394684879/)
@@ -107,7 +107,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ## 📰 **My Blogs** (in Progress...)
 
-[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manoj997)
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/polroti)
 [![](https://img.shields.io/badge/Kumars_blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kumars-blogs.blogspot.com/)
 [![](https://img.shields.io/badge/Tech_Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://manoj-techblogs.blogspot.com/)
 
@@ -115,7 +115,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ## 📦 **Repositories**
 
- 😎 My profile 👉 [Manoj Kumar](https://github.com/manoj997) contains the work that I've done.
+ 😎 My profile 👉 [Manoj Kumar](https://github.com/polroti) contains the work that I've done.
 
  🏢 My Organization profile 👉 [Manbran](https://github.com/manobran) contains the work that I've done with a team of contributors. (College Projects)
 
@@ -125,14 +125,14 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ## 📊 **Stats...**
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoj997&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
+<img src="https://github-readme-stats.vercel.app/api?username=polroti7&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
 
 <!-- ![Manoj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green) -->
 
 ### GitHub Trophies 😜
 
-![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=manoj997&row=1&theme=dark)
+![Manoj's github trophy](https://github-profile-trophy.vercel.app/?username=polroti&row=1&theme=dark)
 
 ### Streak 🔥
 
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=manoj997&theme=blue-green"/>
+<img src ="https://github-readme-streak-stats.herokuapp.com/?user=polroti&theme=blue-green"/>
