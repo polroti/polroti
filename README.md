@@ -125,7 +125,7 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ## 📊 **Stats...**
 
-<img src="https://github-readme-stats.vercel.app/api?username=polroti7&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
+<img src="https://github-readme-stats.vercel.app/api?username=polroti&show_icons=true&count_private=true&theme=dark" alt="Manoj Kumar" />
 
 <!-- ![Manoj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj997&theme=blue-green) -->
 
