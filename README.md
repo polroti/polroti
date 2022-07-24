@@ -135,4 +135,4 @@ Hello! 😃 Myself **Manoj Kumar Dharmaraja**. Welcome & Great to see you visiti
 
 ### Streak 🔥
 
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=polroti&theme=blue-green"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=polroti&theme=algolia&hide_border=true)](https://git.io/streak-stats)
